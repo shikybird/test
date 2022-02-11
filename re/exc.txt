@@ -1,0 +1,30 @@
+RP/0/RSPO/CPUO:2_c-leaf-1#  show interfaces
+Thu Sep 7 15:17:18.514 UTC
+
+BVI101 is down, line protocol is down
+    Interface state transitions: 2
+    Hardware is Bridge-Group Virtual Interface, address is 10f3.116c.e6a7
+    Internet address is 10.1.1.2/24
+    MTU 1514 bytes, Bw 10000000 Kbit (Max:10eo0000 Kbit)
+        reliability 255/255, txload 0/255, rxload 0/255
+    Encapsulation ARPA, loopback not set,Last link flapped 8wed
+    ARP type ARPA, ARP timeout 04:00:00
+    Last input never, output 8w2d
+
+BVI1 is down, line protocol is down
+    Interface state transitions: 2
+    Hardware is Bridge-Group Virtual Interface, address is 10f3.116c.e6a7
+    Internet address is 20.1.1.2/24
+    MTU 1514 bytes, Bw 10000000 Kbit (Max:10eo0000 Kbit)
+        reliability 255/255, txload 0/255, rxload 0/255
+    Encapsulation ARPA, loopback not set,Last link flapped 8wed
+    ARP type ARPA, ARP timeout 04:00:00
+    Last input never, output 8w2d
+
+MgmtEth0/RSP0/CPU0/0 is up,line protocol is down, line protocol is down
+    Interface state transitions: 2
+    MTU 1514 bytes, Bw 10000000 Kbit (Max:10eo0000 Kbit)
+        reliability 255/255, txload 0/255, rxload 0/255
+    Encapsulation ARPA, loopback not set,Last link flapped 8wed
+    ARP type ARPA, ARP timeout 04:00:00
+    Last input never, output 8w2d
